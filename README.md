@@ -1,62 +1,77 @@
-
 # ☕ Coffee Masters
 
-Coffee Masters é uma aplicação web **estática** que simula a interface de um sistema de pedidos de uma cafeteria. O projeto é focado apenas no **front-end**, sem funcionalidades de backend ou lógica de programação — ideal para fins de prototipação visual.
-
-Coffee Masters is a **static** web application that simulates the interface of a coffee shop ordering system. This project focuses only on the **front-end**, with no backend logic — perfect for visual prototyping.
+A responsive coffee ordering interface — built entirely with HTML and CSS to practice modern layout techniques and design systems.
 
 ---
 
-## 🧾 Funcionalidades visuais | Visual Features
+## 🇺🇸 English
 
-- 📋 Layout de itens com nomes, descrições e preços  
-  Item layout with names, descriptions, and prices
+### 🚀 About the Project
 
-- 🧑‍💼 Campo para nome do cliente  
-  Input field for customer name
+**Coffee Masters** is a static UI prototype for a coffee ordering app, inspired by real-world interfaces.  
+This project was created to practice clean semantic structure with **HTML5**, modular and reusable **CSS**, and responsive design — without any JavaScript.
 
-- 💳 Campos visuais para pagamento: número do cartão, CVV e validade  
-  Visual payment fields: card number, CVV, and expiration
+It simulates a visual coffee shop ordering system with sections for menu items, a shopping cart, and order summary.
 
-- 🧮 Exibição de subtotal, imposto e total (estáticos)  
-  Display of subtotal, tax, and total (static)
+### 🔗 Live Demo
 
-- 🟠 Botão estilizado "Place Order" (sem funcionalidade)  
-  Styled "Place Order" button (no functionality)
+👉 [Test it now on GitHub Pages](https://marcosnicolau000.github.io/Coffe-Masters/)
 
----
+### ✅ Project Highlights
 
-## 🖥️ Tecnologias | Technologies
+- iOS-style visual layout  
+- Built entirely with **HTML** and **CSS**  
+- Use of **CSS variables**, **flexbox**, and consistent spacing
 
-- HTML  
-- CSS  
-- (Sem JavaScript) — totalmente estático  
-  (No JavaScript) — fully static
+### ✨ Technologies Used
 
----
+- **HTML5**: Semantic markup and structural layout  
+- **CSS3**: Custom design, responsive layout, and theming with CSS variables  
 
-## 📂 Como visualizar | How to View
+### 🎯 What I Learned
 
-1. Clone ou baixe o repositório  
-2. Abra o arquivo `index.html` diretamente no seu navegador
+This project helped strengthen key front-end design concepts, including:  
+- Use of **CSS variables** for maintainability  
+- Component-style CSS organization  
+- Creating a realistic app interface without JavaScript
 
----
+### 🖼️ UI Preview
 
-## 📸 Captura de tela | Screenshot
-
-> <img width="1392" height="884" alt="Screenshot 2025-07-10 092211" src="https://github.com/user-attachments/assets/3694d35b-e398-447d-ab65-2cba18e7c3ca" />
+<img width="1342" height="863" alt="image" src="https://github.com/user-attachments/assets/b150082f-f688-49e6-bc3c-4915927bfc1c" />
 
 ---
 
-## 🧑‍💻 Autor | Author
+## 🇧🇷 Português
 
-- Nome: Marcos Nicolau 
-- GitHub: [@MarcosNicolau000](https://github.com/MarcosNicolau000)
+### 🚀 Sobre o Projeto
 
----
+O **Coffee Masters** é um protótipo de interface estática para um app de pedidos de café, inspirado em interfaces reais.  
+Foi desenvolvido com foco em estruturação semântica com **HTML5** e estilização modular e reutilizável com **CSS**, **sem utilizar JavaScript**.
 
-## 📝 Licença | License
+Simula visualmente um sistema de pedidos com seções para o menu, carrinho e resumo do pedido.
 
-Este projeto está licenciado sob a Licença MIT.  
-This project is licensed under the MIT License.
+### 🔗 Link para Testar
 
+👉 [Teste agora no GitHub Pages](https://marcosnicolau000.github.io/Coffe-Masters/)
+
+### ✅ Destaques do Projeto
+
+- Layout visual inspirado em apps mobile  
+- Desenvolvido apenas com **HTML** e **CSS**  
+- Uso de **variáveis CSS**, **flexbox** e espaçamentos consistentes  
+
+### ✨ Tecnologias Utilizadas
+
+- **HTML5**: Marcação semântica e estrutura do layout  
+- **CSS3**: Design personalizado, layout responsivo e theming com variáveis  
+
+### 🎯 O que Aprendi
+
+Este projeto foi ideal para consolidar conceitos de design e front-end como:  
+- Uso de **variáveis CSS** para facilitar manutenção  
+- Organização de CSS em estilo de componentes  
+- Criação de interfaces realistas sem JavaScript
+
+### 🖼️ Prévia da Interface
+
+<img width="1342" height="863" alt="image" src="https://github.com/user-attachments/assets/8abfd1af-19e9-4099-8b9c-b64ece773f52" />
